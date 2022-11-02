@@ -4,7 +4,10 @@ const person = {
     address : {
         country : "Indonesia",
         city : "Subang"
-    }
+    },
+    hobbies : [
+        "Coding", "Games", "Turu", "Rebahan"
+    ]
 };
 
 // JSON.stringify() => Digunakan untuk melakukan konversi dari Object ke string
